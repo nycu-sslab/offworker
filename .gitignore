@@ -1,0 +1,9 @@
+node_modules/
+build/
+dist/
+tmp/
+*.DS_Store
+coverage/
+.nyc_output
+.vscode
+*/**/offworker.bundle.js

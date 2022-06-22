@@ -1,0 +1,23 @@
+<head>
+  <script src="offworker.bundle.js"></script>
+</head>
+
+<body>
+  <div id="content"></div>
+  <script>
+    const first_time = (new Date()).getTime();
+
+    const proxy = new Worker("./main.js");
+
+    proxy.postMessage("start");
+
+    proxy.onmessage = e => {
+      const pi = e.data;
+
+      const last_time = (new Date()).getTime();
+      const content = "pi: " + pi + '<br/>' + "time: " + (last_time - first_time) / 1000 + "s"
+      document.getElementById("content").innerHTML = content;
+    }
+
+  </script>
+</body>
