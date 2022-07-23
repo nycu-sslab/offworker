@@ -2,6 +2,9 @@
 
 Official source code for the thesis, "[Offworker: An Offloading Framework for ParallelWeb Applications](https://etd.lib.nctu.edu.tw/cgi-bin/gs32/tugsweb.cgi?o=dnctucdr&s=id=%22GT0708560050%22.&switchlang=en)," authored by Liu, An-Chi and You, Yi-Ping.
 
+<img width="728" alt="Offworker Architecture" src="https://user-images.githubusercontent.com/18013815/180620872-54505fd2-eba8-446c-9f90-72bb86ddde23.png">
+
+
 ## Setup
 
 Tested in Ubuntu, but other Linux distributions may also work.
