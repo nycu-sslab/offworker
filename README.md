@@ -1,6 +1,6 @@
 # Offworker: An Offloading Framework for Parallel Web Applications
 
-Official source code for the thesis, "[Offworker: An Offloading Framework for ParallelWeb Applications](https://etd.lib.nctu.edu.tw/cgi-bin/gs32/tugsweb.cgi?o=dnctucdr&s=id=%22GT0708560050%22.&switchlang=en)," authored by Liu, An-Chi and You, Yi-Ping.
+Official source code for the paper, "[Offworker: An Offloading Framework for ParallelWeb Applications](#citation)," authored by An-Chi Liu and Yi-Ping You.
 
 <img width="728" alt="Offworker Architecture" src="https://user-images.githubusercontent.com/18013815/180620872-54505fd2-eba8-446c-9f90-72bb86ddde23.png">
 
@@ -84,7 +84,8 @@ Offworker use two benchmark suites for evaluation, which are [Rodinia-JS](https:
 
 If you use **Offworker** for academical purpose, please cite the followings:
 
-Liu, An-Chi and You, Yi-Ping, "Offworker: An Offloading Framework for Parallel Web Applications," M.S. thesis, Institute of Computer Science and Engineering, National Yang Ming Chiao Tung University, Hsinchu, Taiwan, 2022. [Online]. Available: https://etd.lib.nctu.edu.tw/cgi-bin/gs32/tugsweb.cgi?o=dnctucdr&s=id=%22GT0708560050%22.&switchlang=en
+- An-Chi Liu and Yi-Ping You, "Offworker: An Offloading Framework for Parallel Web Applications," to appear in Proceedings of the 23rd International Conference on Web Information Systems and Engineering (WISE '22), Biarritz, France, October 31-November 3, 2022.
+- An-Chi Liu and Yi-Ping You, "Offworker: An Offloading Framework for Parallel Web Applications," M.S. thesis, Institute of Computer Science and Engineering, National Yang Ming Chiao Tung University, Hsinchu, Taiwan, 2022. [Online]. Available: https://etd.lib.nctu.edu.tw/cgi-bin/gs32/tugsweb.cgi?o=dnctucdr&s=id=%22GT0708560050%22.&switchlang=en
 
 ## License
 
