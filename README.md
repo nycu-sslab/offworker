@@ -1,6 +1,6 @@
 # Offworker: An Offloading Framework for Parallel Web Applications
 
-Official source code for the paper, "[Offworker: An Offloading Framework for ParallelWeb Applications](#citation)," authored by An-Chi Liu and Yi-Ping You.
+Official source code for the paper, "[Offworker: An Offloading Framework for Parallel Web Applications](#citation)," authored by An-Chi Liu and Yi-Ping You.
 
 <img width="728" alt="Offworker Architecture" src="https://user-images.githubusercontent.com/18013815/180620872-54505fd2-eba8-446c-9f90-72bb86ddde23.png">
 
